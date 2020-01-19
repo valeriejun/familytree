@@ -374,7 +374,7 @@ var data = [
     { "name": "Abby McCallum",         "class": "2017 BY", "active": "n", "parent": "Tracy Lahey" },
     { "name": "Jade McVay",            "class": "2017 BY", "active": "y", "parent": "Sophia Inaba" },
     { "name": "Harry Mitchell",        "class": "2017 BY", "active": "n", "parent": "Sean Ezenwugo" },
-    { "name": "Haley Nelson",          "class": "2017 BY", "active": "y", "parent": "Amanda Albini" },
+    { "name": "Haley Breland",          "class": "2017 BY", "active": "y", "parent": "Amanda Albini" },
     { "name": "Justin Nguyen",         "class": "2017 BY", "active": "y", "parent": "Andy Hsu" },
     { "name": "Jacob Re",              "class": "2017 BY", "active": "y", "parent": "Joey Auer" },
     { "name": "Chris Routh",           "class": "2017 BY", "active": "n", "parent": "Melodie Butz" },
