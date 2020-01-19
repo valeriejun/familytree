@@ -423,7 +423,39 @@ var data = [
     { "name": "Liam Wallace", 			"class": "2019 BX", "active": "y", "parent": "Brandon Free"},
     { "name": "Justin Ward", 			"class": "2019 BX", "active": "y", "parent": "Renu Chepuru"},
     { "name": "Meigan Wu", 			"class": "2019 BX", "active": "y", "parent": "Haley Nelson"},
-    { "name": "Naveed Zaman", 			"class": "2019 BX", "active": "y", "parent": "Jeffrey Lin"}
+    { "name": "Naveed Zaman", 			"class": "2019 BX", "active": "y", "parent": "Jeffrey Lin"},
+
+    //Beta Psi
+    { "name": "Eleanor Kamenitsa-Hale", 			"class": "2020 BΨ", "active": "y", "parent": "Adam Pingatore"},
+    { "name": "Saul Gutierrez", 			"class": "2020 BΨ", "active": "y", "parent": "Carrie Appel"},
+    { "name": "Frances Kroll", 			"class": "2020 BΨ", "active": "y", "parent": "Casey Armstrong"},
+    { "name": "Ken Hollingsworth", 			"class": "2020 BΨ", "active": "y", "parent": "Chris Badroos"},
+    { "name": "Matt Sanruk", 			"class": "2020 BΨ", "active": "y", "parent": "Daniel Adea"},
+    { "name": "Ellie Wan", 			"class": "2020 BΨ", "active": "y", "parent": "Daniel Fernandez"},
+    { "name": "Henry Rosas", 			"class": "2020 BΨ", "active": "y", "parent": "David Matter"},
+    { "name": "Monica Quevedo", 			"class": "2020 BΨ", "active": "y", "parent": "Eduardo Gordiano"},
+    { "name": "Dixie Zapeta", 			"class": "2020 BΨ", "active": "y", "parent": "Emma Boone"},
+    { "name": "Sydney Myers", 			"class": "2020 BΨ", "active": "y", "parent": "Eric Wong"},
+    { "name": "Alexis Arredondo", 			"class": "2020 BΨ", "active": "y", "parent": "Evelyn Coffey"},
+    { "name": "Gina Talcott", 			"class": "2020 BΨ", "active": "y", "parent": "Gabriel Ramirez"},
+    { "name": "Colin McClure", 			"class": "2020 BΨ", "active": "y", "parent": "Garrett Henkle"},
+    { "name": "Matthew Van De Mheen", 			"class": "2020 BΨ", "active": "y", "parent": "Gus Billing"},
+    { "name": "Natalie Wang", 			"class": "2020 BΨ", "active": "y", "parent": "Haley Breland"},
+    { "name": "Ariel Fernandez", 			"class": "2020 BΨ", "active": "y", "parent": "Ivy Kwok"},
+    { "name": "Peter Oh", 			"class": "2020 BΨ", "active": "y", "parent": "Jeffrey Lin"},
+    { "name": "Willis Lam", 			"class": "2020 BΨ", "active": "y", "parent": "Justin Wolfman"},
+    { "name": "Bryan Jefferson", 			"class": "2020 BΨ", "active": "y", "parent": "Katie Osborn"},
+    { "name": "Renee Shanteler", 			"class": "2020 BΨ", "active": "y", "parent": "Kevin Reidy"},
+    { "name": "Ellis Song", 			"class": "2020 BΨ", "active": "y", "parent": "Matthew Chin"},
+    { "name": "Sophia Buraglio", 			"class": "2020 BΨ", "active": "y", "parent": "Matthew Espinoza"},
+    { "name": "Fidel Negrete", 			"class": "2020 BΨ", "active": "y", "parent": "Meigan Wu"},
+    { "name": "Adriana Vree", 			"class": "2020 BΨ", "active": "y", "parent": "Naveed Zaman"},
+    { "name": "Joshua Cielo", 			"class": "2020 BΨ", "active": "y", "parent": "Omer Lavian"},
+    { "name": "Adam Traut", 			"class": "2020 BΨ", "active": "y", "parent": "Randall Reza"},
+    { "name": "Brianna Becerra", 			"class": "2020 BΨ", "active": "y", "parent": "Renu Chepuru"},
+    { "name": "Cassidy Song", 			"class": "2020 BΨ", "active": "y", "parent": "Ryan Lee"},
+    { "name": "Kylie Williams", 			"class": "2020 BΨ", "active": "y", "parent": "Sara Acosta"},
+    { "name": "Cameron Uy", 			"class": "2020 BΨ", "active": "y", "parent": "Sofia Alemania"}
 ];
 
 
