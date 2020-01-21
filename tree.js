@@ -422,7 +422,7 @@ var data = [
     { "name": "Alexis Toledo", 			"class": "2019 BX", "active": "y", "parent": "Ethan Cai"},
     { "name": "Liam Wallace", 			"class": "2019 BX", "active": "y", "parent": "Brandon Free"},
     { "name": "Justin Ward", 			"class": "2019 BX", "active": "y", "parent": "Renu Chepuru"},
-    { "name": "Meigan Wu", 			"class": "2019 BX", "active": "y", "parent": "Haley Nelson"},
+    { "name": "Meigan Wu", 			"class": "2019 BX", "active": "y", "parent": "Haley Breland"},
     { "name": "Naveed Zaman", 			"class": "2019 BX", "active": "y", "parent": "Jeffrey Lin"},
 
     //Beta Psi
