@@ -11,6 +11,7 @@ var data = [
 
     // Alpha Upsilon
     {"name": "Brian LaCaille",        "class": "1993 AY", "active": "n", "parent": "Psi Chapter" },
+    {"name": "Kevin McKeown",        "class": "1993 AY", "active": "n", "parent": "Matt Perry" },
 
     // Alpha Phi
     {"name": "Greg Teal",             "class": "1994 AΦ", "active": "n", "parent": "Bryan LaCaille" },
