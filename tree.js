@@ -18,7 +18,7 @@ var data = [
 
     // Alpha Chi
     {"name": "Kenny Phillips",        "class": "1995 AX", "active": "n", "parent": "Psi Chapter" },
-    {"name": "Jeff Panos",            "class": "1995 AX", "active": "n", "parent": "Matt Perry" },
+    {"name": "Jeff Panos",            "class": "1995 AX", "active": "n", "parent": "Kevin McKeown" },
     {"name": "Don Solum",             "class": "1995 AX", "active": "n", "parent": "Psi Chapter" },
 
     // Alpha Psi
