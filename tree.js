@@ -429,7 +429,6 @@ var data = [
     //Beta Psi
     { "name": "Eleanor Kamenitsa-Hale", 			"class": "2020 BΨ", "active": "y", "parent": "Adam Pingatore"},
     { "name": "Saul Gutierrez", 			"class": "2020 BΨ", "active": "y", "parent": "Carrie Appel"},
-    { "name": "Frances Kroll", 			"class": "2020 BΨ", "active": "y", "parent": "Casey Armstrong"},
     { "name": "Ken Hollingsworth", 			"class": "2020 BΨ", "active": "y", "parent": "Chris Badroos"},
     { "name": "Matt Sanruk", 			"class": "2020 BΨ", "active": "y", "parent": "Daniel Adea"},
     { "name": "Ellie Wan", 			"class": "2020 BΨ", "active": "y", "parent": "Daniel Fernandez"},
@@ -569,7 +568,7 @@ function update(source) {
 	.style("fill", function(d) { 
 	    if ( d._children )
 		return "royalblue";
-	    if ( d.class === "2020 BΨ" )               //Change this for color of candidate class
+	    if ( d.class === "2021 BΩ" )               //Change this for color of candidate class
 		return "#C2E0FF";
 	    if ( d.active === "y" )
 		return "gold";
