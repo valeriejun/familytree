@@ -387,7 +387,7 @@ var data = [
     { "name": "Sara Acosta", 			"class": "2018 BΦ", "active": "y", "parent": "Jade McVay"},
     { "name": "Daniel Adea", 			"class": "2018 BΦ", "active": "y", "parent": "Matthew Chin"},
     { "name": "Emma Boone", 			"class": "2018 BΦ", "active": "y", "parent": "Chris Routh"},
-    { "name": "Ethan Cai", 			"class": "2018 BΦ", "active": "y", "parent": "Justin Nguyen"},
+    { "name": "Ethan Cai", 			"class": "2018 BΦ", "active": "n", "parent": "Justin Nguyen"},
     { "name": "Ronnie Chase", 			"class": "2018 BΦ", "active": "n", "parent": "Harry Mitchell"},
     { "name": "Renu Chepuru", 			"class": "2018 BΦ", "active": "y", "parent": "Joey Auer"},
     { "name": "Emily Davis", 			"class": "2018 BΦ", "active": "y", "parent": "Sofia Alemania"},
@@ -404,7 +404,7 @@ var data = [
     { "name": "Katie Osborn", 			"class": "2018 BΦ", "active": "y", "parent": "Abby McCallum"},
     { "name": "Christopher Qiu", 		"class": "2018 BΦ", "active": "n", "parent": "Vito Emanuel"},
     { "name": "David Thorne", 			"class": "2018 BΦ", "active": "y", "parent": "Michael Stranieri"},
-    { "name": "Chelsy Torres", 			"class": "2018 BΦ", "active": "y", "parent": "Michelle Leccese"},
+    { "name": "Chelsy Torres", 			"class": "2018 BΦ", "active": "n", "parent": "Michelle Leccese"},
     { "name": "Erica Vellanoweth", 		"class": "2018 BΦ", "active": "y", "parent": "Casey Armstrong"},
     { "name": "Eric Wong", 			"class": "2018 BΦ", "active": "y", "parent": "Jacob Re"},
 
