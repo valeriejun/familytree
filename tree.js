@@ -455,7 +455,7 @@ var data = [
     { "name": "Brianna Becerra", 			"class": "2020 BΨ", "active": "y", "parent": "Renu Chepuru"},
     { "name": "Cassidy Song", 			"class": "2020 BΨ", "active": "y", "parent": "Ryan Lee"},
     { "name": "Kylie Williams", 			"class": "2020 BΨ", "active": "y", "parent": "Sara Acosta"},
-    { "name": "Cameron Uy", 			"class": "2020 BΨ", "active": "y", "parent": "Sofia Alemania"}
+    { "name": "Cameron Uy", 			"class": "2020 BΨ", "active": "y", "parent": "Sofia Alemania"},
 	
     //Beta Omega
     { "name": "Brian Acevedo", 			"class": "2021 BΩ", "active": "y", "parent": "Matthew Van De Mheen"},
