@@ -592,7 +592,7 @@ function update(source) {
 	.style("fill", function(d) { 
 	    if ( d._children )
 		return "royalblue";
-	    if ( d.class === "2021 BΩ" )               //Change this for color of candidate class
+	    if ( d.class === "2021 ΓA" )               //Change this for color of candidate class
 		return "#C2E0FF";
 	    if ( d.active === "y" )
 		return "gold";
