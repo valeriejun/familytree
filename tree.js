@@ -632,8 +632,8 @@ function update(source) {
 	.style("fill", function(d) { 
 	    if ( d._children )
 		return "royalblue";
-	    //if ( d.class === "2023 ΓB")               //Change this for color of candidate class
-		//return "#C2E0FF";
+	    //if ( d.class === "2023 ΓB")               //Uncomment these two lines and 
+		//return "#C2E0FF";                         //change the name of the candidate class
 	    if ( d.active === "y" )
 		return "gold";
 	    return "#fff"; });
