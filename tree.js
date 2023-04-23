@@ -502,24 +502,23 @@ var data = [
     { "name": "Will McLean",			"class": "2022 ΓA", "active": "y", "parent": "Henry Rosas"},
 
     //Gamma Beta
-    { "name": "Alfredo Moran",			"class": "2023 ΓB", "active": "n", "parent": "Jose Munoz"},
-    { "name": "Benjamin Zietz",			"class": "2023 ΓB", "active": "n", "parent": "Caitlyn Lo"},
-    { "name": "Edward Rodriguez",			"class": "2023 ΓB", "active": "n", "parent": "Leigha Linder"},
-    { "name": "Elizabeth Tan",			"class": "2023 ΓB", "active": "n", "parent": "Cass Barraza"},
-    { "name": "Emma Crawford",			"class": "2023 ΓB", "active": "n", "parent": "Maia Holmes Kueny"},
-    { "name": "Gabriel Martinez Sandoval",			"class": "2023 ΓB", "active": "n", "parent": "Monica Quevedo"},
-    { "name": "Grace Pellegrino",			"class": "2023 ΓB", "active": "n", "parent": "Brian Acevedo"},
-    { "name": "Holly Boyd",			"class": "2023 ΓB", "active": "n", "parent": "George Mooradian"},
-    { "name": "John Zhang",			"class": "2023 ΓB", "active": "n", "parent": "Sam Black"},
-    { "name": "Jordan Amey",			"class": "2023 ΓB", "active": "n", "parent": "Rachael Cohen"},
-    { "name": "KJ Spieldenner",			"class": "2023 ΓB", "active": "n", "parent": "Jaya Murthy"},
-    { "name": "Laurel Reidel",			"class": "2023 ΓB", "active": "n", "parent": "Aaron Martinez"},
-    { "name": "Lauryn Famble",			"class": "2023 ΓB", "active": "n", "parent": "Elise Faux"},
-    { "name": "Matthew Chavez",			"class": "2023 ΓB", "active": "n", "parent": "Natalie Wang"},
-    { "name": "Matthew Graves",			"class": "2023 ΓB", "active": "n", "parent": "Gina Talcott"},
-    { "name": "Robert Murata",			"class": "2023 ΓB", "active": "n", "parent": "Natalie Loftus"},
-    { "name": "Stanley Chow",			"class": "2023 ΓB", "active": "n", "parent": "Emily Rusting"},
-    { "name": "Valerie Jun",			"class": "2023 ΓB", "active": "n", "parent": "Johanna Bai"},
+    { "name": "Alfredo Moran",			"class": "2023 ΓB", "active": "y", "parent": "Jose Munoz"},
+    { "name": "Benjamin Zietz",			"class": "2023 ΓB", "active": "y", "parent": "Caitlyn Lo"},
+    { "name": "Edward Rodriguez",			"class": "2023 ΓB", "active": "y", "parent": "Leigha Linder"},
+    { "name": "Elizabeth Tan",			"class": "2023 ΓB", "active": "y", "parent": "Cass Barraza"},
+    { "name": "Emma Crawford",			"class": "2023 ΓB", "active": "y", "parent": "Maia Holmes Kueny"},
+    { "name": "Gabriel Martinez Sandoval",			"class": "2023 ΓB", "active": "y", "parent": "Monica Quevedo"},
+    { "name": "Grace Pellegrino",			"class": "2023 ΓB", "active": "y", "parent": "Brian Acevedo"},
+    { "name": "Holly Boyd",			"class": "2023 ΓB", "active": "y", "parent": "George Mooradian"},
+    { "name": "John Zhang",			"class": "2023 ΓB", "active": "y", "parent": "Sam Black"},
+    { "name": "Jordan Amey",			"class": "2023 ΓB", "active": "y", "parent": "Rachael Cohen"},
+    { "name": "KJ Spieldenner",			"class": "2023 ΓB", "active": "y", "parent": "Jaya Murthy"},
+    { "name": "Laurel Reidel",			"class": "2023 ΓB", "active": "y", "parent": "Aaron Martinez"},
+    { "name": "Lauryn Famble",			"class": "2023 ΓB", "active": "y", "parent": "Elise Faux"},
+    { "name": "Matthew Chavez",			"class": "2023 ΓB", "active": "y", "parent": "Natalie Wang"},
+    { "name": "Matthew Graves",			"class": "2023 ΓB", "active": "y", "parent": "Gina Talcott"},
+    { "name": "Stanley Chow",			"class": "2023 ΓB", "active": "y", "parent": "Emily Rusting"},
+    { "name": "Valerie Jun",			"class": "2023 ΓB", "active": "y", "parent": "Johanna Bai"},
 
 ];
 
@@ -633,8 +632,8 @@ function update(source) {
 	.style("fill", function(d) { 
 	    if ( d._children )
 		return "royalblue";
-	    if ( d.class === "2023 ΓB")               //Change this for color of candidate class
-		return "#C2E0FF";
+	    //if ( d.class === "2023 ΓB")               //Change this for color of candidate class
+		//return "#C2E0FF";
 	    if ( d.active === "y" )
 		return "gold";
 	    return "#fff"; });
